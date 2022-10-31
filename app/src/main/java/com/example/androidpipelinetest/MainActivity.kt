@@ -7,5 +7,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        doActivity()
+    }
+
+    private fun doActivity() {
+       // adding first comment to see if pipeline is triggering on master
     }
 }
