@@ -1,7 +1,5 @@
-trigger:
-  branches:
-    include:
-    - master
+pr:
+    - feature/*
 stages:
 - stage: __default
   jobs:
