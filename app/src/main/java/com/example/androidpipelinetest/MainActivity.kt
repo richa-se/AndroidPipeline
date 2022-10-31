@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
        // adding first comment to see if pipeline is triggering on master.
         // adding second comment to see if pipeline is triggering on master-3.
         // making a small change -1
+        // branch change
     }
 }
