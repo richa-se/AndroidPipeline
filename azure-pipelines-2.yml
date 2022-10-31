@@ -3,6 +3,10 @@ trigger:
     include:
     - master
     - feature/*
+
+pr:
+  - feature/*
+
 stages:
 - stage: __default
   jobs:
