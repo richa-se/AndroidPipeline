@@ -2,9 +2,8 @@ trigger:
   branches:
     include:
     - master
-    - feature/*
 
-pr:
+  pr:
   - feature/*
 
 stages:
