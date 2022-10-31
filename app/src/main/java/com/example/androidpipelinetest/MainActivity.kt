@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun doActivity() {
        // adding first comment to see if pipeline is triggering on master.
+        // adding second comment to see if pipeline is triggering on master.
     }
 }
